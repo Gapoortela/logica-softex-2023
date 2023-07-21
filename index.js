@@ -10,4 +10,9 @@ function multiplicar(x, y) {
   console.log(x * y)
 }
 
+var nome("Gabriel"); {
+  console.log("nome");
+}
 
+
+  
